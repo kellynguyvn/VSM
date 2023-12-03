@@ -11,3 +11,6 @@ The Vector Space Model (VSM) for the given documents and vocabulary is successfu
 | d2 | 0   | 1   | 0   | 0   |
 | d3 | 0   | 0   | 1   | 0  |
 | d4 | 1   | 0   | 1   | 1  |
+
+## References
+[CMPE256_LargeScaleAnalytics_Session_InformationRetrieval_20231101.pdf](https://sjsu.instructure.com/courses/1576186/files/folder/Session10?preview=75128560)
